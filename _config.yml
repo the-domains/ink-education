@@ -1,0 +1,28 @@
+name: INK Education
+favicon: null
+layout_spectrum: 0.5689708201680332
+typography_spectrum: 0.9830635082907975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6641605189070106
+  lightness: 0.3611034208443016
+  saturation: 0.5516651051584631
+  rhythmicContrast: 0.4194301110692322
+purpose: []
